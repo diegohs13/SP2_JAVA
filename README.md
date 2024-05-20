@@ -13,20 +13,19 @@ Proposta de sistema online para agendamento médico, promovendo acesso facilitad
 ### Configuração do Spring
 - site: https://start.spring.io/
 ![Configuração Spring](https://github.com/diegohs13/SP2_JAVA/blob/main/configSpring.png)
-"imagem spring"
 - application.properties
-"imagem application.properties"
+![Configuração application.properties](https://github.com/diegohs13/SP2_JAVA/blob/main/appProp.png)
 
 ### Import insominia
 - insomnia v4
 - InsomniaSP2.json
 - Importar arquivo
-"imagem importar arquivo"
-"imagem importar arquivo2"
+![Importar arquivo](https://github.com/diegohs13/SP2_JAVA/blob/main/importInsomnia.png)
+![Import completo](https://github.com/diegohs13/SP2_JAVA/blob/main/importCompleto.png)
 
 ### Execução
 Após a importação do arquivo InsomniaSP2.json e a configuração do application.properties, o usuario pode rodar o Sprint2JavaApplication dentro do projeto java.
-"imagem appRun"
+![Execução](https://github.com/diegohs13/SP2_JAVA/blob/main/runApp.png)
 
 ### Utilização
 O usuario pode cadastrar os seguintes dados no sistema utilizando o metodo POST:
