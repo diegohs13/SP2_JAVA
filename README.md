@@ -18,10 +18,10 @@ Proposta de sistema online para agendamento médico, promovendo acesso facilitad
 
 ### Import insominia
 - insomnia v4
-- InsomniaSP2.json
 - Importar arquivo
 ![Importar arquivo](https://github.com/diegohs13/SP2_JAVA/blob/main/importInsomnia.png)
 ![Import completo](https://github.com/diegohs13/SP2_JAVA/blob/main/importCompleto.png)
+- Importe o arquivo InsomniaSP2.json para o Insomnia
 
 ### Execução
 Após a importação do arquivo InsomniaSP2.json e a configuração do application.properties, o usuario pode rodar o Sprint2JavaApplication dentro do projeto java.
