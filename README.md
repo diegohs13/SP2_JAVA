@@ -12,6 +12,7 @@ Proposta de sistema online para agendamento médico, promovendo acesso facilitad
 
 ### Configuração do Spring
 - site: https://start.spring.io/
+![Configuração Spring](https://github.com/diegohs13/SP2_JAVA/blob/main/configSpring.png)
 "imagem spring"
 - application.properties
 "imagem application.properties"
